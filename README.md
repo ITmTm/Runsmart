@@ -1,4 +1,4 @@
-<h1 align="center">PROJECT RunSmart</h1>
+<h1 align="center">PROJECT: RunSmart</h1>
 
 
 
